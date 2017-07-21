@@ -1,6 +1,6 @@
 # Ultrasound Image Segmentation
 
-Full details of the project can be found on my blog here: http://www.kevinkeller.me/?project=image-segmentation
+Full details of the project can be found on my blog here: http://www.kevinkeller.me/?project=segmentation
 
 To run the scripts simply call "python bicep_script.py" and then enter the path to the image folder.
 
